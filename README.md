@@ -1,4 +1,4 @@
-# 🧬 Dioxus Material Icons
+# 🧬 Dioxus Material Icons (v0.4)
 
 <a href="https://crates.io/crates/dioxus-material-icons">
     <img src="https://img.shields.io/crates/v/dioxus-material-icons.svg" alt="Crates.io version" />
